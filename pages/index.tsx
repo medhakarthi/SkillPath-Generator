@@ -50,9 +50,6 @@ export default function Home() {
             Paste a job posting → get required skills, an actionable roadmap, and an estimated timeline.
           </div>
         </div>
-        <div style={{ textAlign: "right", fontSize: 13, color: "var(--muted)" }}>
-          Tip: revoke any exposed keys and keep .env.local out of git.
-        </div>
       </div>
 
       <div className="panel">
@@ -63,11 +60,6 @@ export default function Home() {
             onChange={(e) => setJobText(e.target.value)}
             placeholder="Paste job description here (e.g., Senior React developer with Next.js, TypeScript, GraphQL)..."
           />
-
-          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: 12 }}>
-            <div style={{ color: "var(--muted)", fontSize: 13 }}>
-              Pro tip: include the 'Responsibilities' or 'Requirements' section for best parsing.
-            </div>
 
             <div className="controls">
               <button
