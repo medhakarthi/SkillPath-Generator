@@ -1,6 +1,6 @@
-# SkillPath Generator
+# SkillSprout
 
-SkillPath Generator is a web app that transforms broad career or learning goals into clear, structured, and actionable plans. Instead of leaving users with a vague target like “become a frontend developer” or “learn data analysis,” the app breaks goals down into smaller weekly steps that feel realistic and trackable.
+SkillSprout is a web app that transforms broad career or learning goals into clear, structured, and actionable plans. Instead of leaving users with a vague target like “become a frontend developer” or “learn data analysis,” the app breaks goals down into smaller weekly steps that feel realistic and trackable.
 
 ## Overview
 
