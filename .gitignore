@@ -1,0 +1,32 @@
+# Environment
+.env.local
+.env.*.local
+.env.* 
+# Node
+node_modules/
+# Next.js build output
+.next/
+out/
+dist/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+# OS files
+.DS_Store
+Thumbs.db
+# Editors/IDE
+.vscode/
+.idea/
+# Test coverage
+coverage/
+# cache
+.cache/
+.cache-loader/
+# bundles
+*.tgz
+# Optional: lockfiles if you don't want them in repo (usually keep them)
+# package-lock.json
+# yarn.lock
