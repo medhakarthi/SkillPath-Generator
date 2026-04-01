@@ -4,7 +4,7 @@ SkillSprout is a web app that transforms broad career or learning goals into cle
 
 ## Overview
 
-Many people know what they want to achieve, but struggle to figure out how to get there. SkillPath Generator helps solve that problem by taking a user’s goal and generating a step-by-step learning roadmap. The goal is to make skill development feel less overwhelming and more practical.
+Many people know what they want to achieve, but struggle to figure out how to get there. SkillSprout helps solve that problem by taking a user’s goal and generating a step-by-step learning roadmap. The goal is to make skill development feel less overwhelming and more practical.
 
 ## Features
 
@@ -16,13 +16,13 @@ Many people know what they want to achieve, but struggle to figure out how to ge
 
 ## Why I Built This
 
-I built SkillPath Generator to address a common problem in career development platforms and self-learning: users are often told what skills they need, but not how to actually build them. I wanted to create a tool that gives users more guidance by turning abstract goals into concrete next steps.
+I built SkillSprout to address a common problem in career development platforms and self-learning: users are often told what skills they need, but not how to actually build them. I wanted to create a tool that gives users more guidance by turning abstract goals into concrete next steps.
 
 ## Tech Stack
 
 - **Frontend:** Next.js, React, TypeScript
-- **Styling:** CSS / Tailwind CSS *(change this depending on what you use)*
-- **Logic/API:** OpenAI API *(or replace this if you are using mock data or custom logic)*
+- **Styling:** CSS / Tailwind CSS
+- **Logic/API:** OpenAI API
 
 ## How It Works
 
@@ -34,11 +34,3 @@ I built SkillPath Generator to address a common problem in career development pl
 2. The app processes the input and generates a roadmap.
 
 3. The roadmap is displayed as a set of smaller steps or weekly milestones, making the goal easier to approach.
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/skillpath-generator.git
-cd skillpath-generator
